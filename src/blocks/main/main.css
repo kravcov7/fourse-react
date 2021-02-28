@@ -1,0 +1,6 @@
+.main{
+    padding-top: 72px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #EDEDED;
+}

@@ -1,0 +1,8 @@
+.favorites__image{
+    border-radius: 16px;
+    height: 696px;
+    width: 298px;
+    background-image: url('../../../images/favor.jpg');
+    background-size: 100% 100% ;
+    margin-top: 15px;
+}

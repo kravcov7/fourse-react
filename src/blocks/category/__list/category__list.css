@@ -1,0 +1,17 @@
+.category__list{
+    /* list-style-position: inside; */
+  padding: 0;
+  
+  /* display: flex;
+  align-items: baseline;
+  align-content: center; */
+
+}
+
+.category__sublist{
+  display: none;
+}
+
+.category__list li:hover .category__sublist{
+  display: block;
+}

@@ -2,6 +2,12 @@
 @import url('./blocks/logo/logo.css');
 @import url('./blocks/search/search.css');
 @import url('./blocks/hidden/hidden.css');
+@import url('./blocks/main/main.css');
+@import url('./blocks/nav/nav.css');
+@import url('./blocks/category/category.css');
+@import url('./blocks/general/general.css');
+@import url('./blocks/card/card.css');
+@import url('./blocks/favorites/favorites.css');
 
 body {
   margin: 0;

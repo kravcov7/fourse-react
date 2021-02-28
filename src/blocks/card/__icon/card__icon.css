@@ -1,0 +1,13 @@
+@import url("./0/card__icon_0.css");
+@import url("./1/card__icon_1.css");
+
+.card__icon {
+  position: absolute; /* Абсолютное позиционирование */
+  top: 202px; /* Положение от нижнего края */
+  right: 15px;
+  cursor: pointer;
+  border: none;
+  z-index: 1;
+  height: 32px;
+  width: 35px;
+}
