@@ -1,0 +1,14 @@
+.search__input {
+  width: 590px;
+  flex-grow: 2;
+  border-bottom-left-radius: 12px;
+  border-top-left-radius: 12px;
+  outline: none;
+  border: 1px solid #d1d2d6;
+  box-sizing: border-box;
+  border: none;
+  outline: none; /* Убираем свечение в Chrome и Safari */
+  -webkit-appearance: none;
+  padding-left: 10px;
+  font-size: 20px;
+}

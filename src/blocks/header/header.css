@@ -1,0 +1,11 @@
+@import url('./__user-menu/header__user-menu.css');
+@import url('./__item/header__item.css');
+@import url('./__button/header__button.css');
+
+.header{
+    background-color: #6D67C1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 128px;
+}

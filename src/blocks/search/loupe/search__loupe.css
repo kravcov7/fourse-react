@@ -1,0 +1,9 @@
+.search__loupe{
+    border: none;
+    cursor: pointer;
+    /* opacity: 0; */
+    background-color: #fff;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+
+}

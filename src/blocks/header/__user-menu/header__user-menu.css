@@ -1,0 +1,31 @@
+.header__user-menu {
+  height: 36px;
+  width: 205px;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  background: #ddd;
+  font-family: "Roboto", Arial, sans-serif;
+  padding-left: 0;
+}
+
+.header__button-menu {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  width: 190px;
+  /* border: 1px solid black; */
+  padding-left: 10px;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+
+
+.header__user-menu li:hover .header__button-menu {
+  display: block;
+}

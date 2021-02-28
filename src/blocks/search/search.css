@@ -1,0 +1,12 @@
+@import url("./__input/search__input.css");
+@import url("./loupe/search__loupe.css");
+
+.search {
+  height: 36px;
+  width: 940px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  border: none;
+  padding-right: 100px;
+}
