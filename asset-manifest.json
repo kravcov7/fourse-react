@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fourse-react/static/css/main.aaf37238.chunk.css",
+    "main.js": "/fourse-react/static/js/main.5e254fe4.chunk.js",
+    "main.js.map": "/fourse-react/static/js/main.5e254fe4.chunk.js.map",
+    "runtime-main.js": "/fourse-react/static/js/runtime-main.40649e0e.js",
+    "runtime-main.js.map": "/fourse-react/static/js/runtime-main.40649e0e.js.map",
+    "static/js/2.276ab7e4.chunk.js": "/fourse-react/static/js/2.276ab7e4.chunk.js",
+    "static/js/2.276ab7e4.chunk.js.map": "/fourse-react/static/js/2.276ab7e4.chunk.js.map",
+    "static/js/3.07530488.chunk.js": "/fourse-react/static/js/3.07530488.chunk.js",
+    "static/js/3.07530488.chunk.js.map": "/fourse-react/static/js/3.07530488.chunk.js.map",
+    "index.html": "/fourse-react/index.html",
+    "static/css/main.aaf37238.chunk.css.map": "/fourse-react/static/css/main.aaf37238.chunk.css.map",
+    "static/js/2.276ab7e4.chunk.js.LICENSE.txt": "/fourse-react/static/js/2.276ab7e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40649e0e.js",
+    "static/js/2.276ab7e4.chunk.js",
+    "static/css/main.aaf37238.chunk.css",
+    "static/js/main.5e254fe4.chunk.js"
+  ]
+}
