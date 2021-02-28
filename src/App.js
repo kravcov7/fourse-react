@@ -1,7 +1,6 @@
 import logo from "./images/logo-white.png";
 import loupe from "./images/loupe.png";
 import user from "./images/user.png";
-import "./App.css";
 
 function App() {
   return (
